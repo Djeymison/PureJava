@@ -12,5 +12,7 @@ public class Teste {
         Eager = SingletonEager.getinstance();
         System.out.println(Eager);
 
+        System.out.println(Eager);
+        System.out.println(Eager);
     }
 }
