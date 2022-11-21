@@ -1,4 +1,4 @@
-package Diogof;
+package Diogof.Sigleton;
 
 public class SingletonLazyHolder {
     private static class InstaceHolder{

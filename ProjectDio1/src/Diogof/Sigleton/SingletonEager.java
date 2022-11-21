@@ -1,4 +1,4 @@
-package Diogof;
+package Diogof.Sigleton;
 /*the eager singleton */
 public class SingletonEager {
     private static SingletonEager instance = new SingletonEager();

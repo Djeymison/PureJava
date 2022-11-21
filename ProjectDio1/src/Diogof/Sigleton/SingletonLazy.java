@@ -1,4 +1,4 @@
-package Diogof;
+package Diogof.Sigleton;
 
 /* the lazy singleton 
 @author Djeymison
